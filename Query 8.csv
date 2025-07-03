@@ -1,0 +1,2 @@
+Customer_name,phone,email,address,order_date,status,total_amount,payment_method,product_name
+"Fatima Abdullah",+97455123456,fatima.a@example.com,"456 Al Waab Street, Al Waab, Doha",NULL,Processing,5999.00,"STC Pay","Dell XPS 15"
